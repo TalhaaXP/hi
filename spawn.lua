@@ -2,7 +2,7 @@
 -- Paste this full code into your GitHub raw file
 
 local Config = {
-    RequiredItem = "phone",              -- <<-- CHANGE TO YOUR ITEM NAME
+    RequiredItem = "weapon_pistol",              -- <<-- CHANGE TO YOUR ITEM NAME
     PedModel = "a_m_m_business_01",
     InteractionDistance = 2.5,
 }
